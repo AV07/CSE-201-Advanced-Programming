@@ -1,6 +1,6 @@
 # CSE-201-Advanced-Programming
 Assignments for the Advanced Programming Course at `IIIT Delhi` for learning Object Oriented Programming Principles in Java
-Refer to the Assignment_*.pdf files in the directories for more details
+Refer to the .pdf files in the directories for more details
  
  # Overview
  
