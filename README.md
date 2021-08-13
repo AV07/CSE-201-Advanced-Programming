@@ -1,52 +1,6 @@
 # CSE-201-Advanced-Programming
 Assignments for the Advanced Programming Course at `IIIT Delhi` for learning Object Oriented Programming Principles in Java
-
-## Folder Structure
-```
-├── ArchLegends
-│   ├── ArchLegends
-│   │   ├── ArchLegends.java
-│   │   ├── Assignment 3.pdf
-│   │   ├── Game.java
-│   │   ├── Hero.java
-│   │   ├── Monster.java
-│   │   └── SideKick.java
-│   └── ArchLegendsUpdate
-│       ├── ArchLegends.java
-│       ├── Assignment 4.pdf
-│       ├── Game.java
-│       ├── Hero.java
-│       └── Monster.java
-├── Fibonacci
-│   ├── Assigment-7.pdf
-│   ├── Consumer.java
-│   ├── Fibonacci.java
-│   └── Producer.java
-├── Marathon
-│   └── Marathon.java
-├── Marketplace
-│   ├── AP_Assignment_2.pdf
-│   └── OnlineMarketplace.java
-├── Placements
-│   ├── AP_Assignment_1.pdf
-│   └── Placements.java
-└── Racing Game
-    ├── RacingGame
-    │   ├── Assignment-5.pdf
-    │   ├── Computer.java
-    │   ├── Tile.java
-    │   └── User.java
-    └── RacingGameExtended
-        ├── Assignment-6.pdf
-        ├── Computer.java
-        ├── MyTest.java
-        ├── MyTestRunner.java
-        ├── MyTestSuite.java
-        ├── TestSerialization.java
-        ├── Tile.java
-        └── User.java
- ``` 
- Refer to the Assignment_*.pdf files in the directories for more details
+Refer to the Assignment_*.pdf files in the directories for more details
  
  # Overview
  
